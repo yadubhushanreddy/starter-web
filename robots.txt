@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+This is sample edit being done in robots.txt file
